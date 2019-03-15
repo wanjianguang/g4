@@ -1,0 +1,6 @@
+Í¼Æ¬£º
+/core-common-web/src/main/webapp/css/images/
+
+
+jsp:
+/core-common-web/src/main/webapp/WEB-INF/jsp/
